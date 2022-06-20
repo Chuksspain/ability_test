@@ -139,3 +139,149 @@ h3 {
     font-size: 20px;
     margin-top: 25px;
 }
+
+#div5 {
+    width: 287px;
+    height: 600px;
+    background-color: rgb(38, 33, 43);
+    border-radius: 15px;
+    margin-left: 250px;
+    padding-bottom: 10px;
+}
+
+#div6 {
+    width: 255px;
+    height: 40px;
+    background-color: rgb(240, 217, 132);
+    border-radius: 20px;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+#p1 {
+    text-align: center;
+    font-size: 23px;
+    align-self: center;
+    margin-left: 110px;
+
+}
+
+#h3d {
+    color: white;
+    font-size: 38px;
+    padding-top: 90px;
+    margin-left: 30px;
+    display: inline;
+}
+
+#h3e {
+    color: white;
+    font-size: 18px;
+    padding-top: 80px;
+    display: inline-block;
+    margin-left: 11px;
+
+}
+
+#h3f {
+    color: white;
+    font-size: 30px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#p2 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 30px;
+}
+
+#p3 {
+    color: palevioletred;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p4 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p5 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p6 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p7 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p8 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p9 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p10 {
+    color: white;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+    padding: none;
+}
+
+#div7 {
+    width: 262px;
+    height: 40px;
+    background-color: rgb(246, 174, 239);
+    border-radius: 20px;
+    margin-top: none;
+    position: absolute;
+    margin-left: 10px;
+    display: flex;
+
+}
+
+#p11 {
+    text-align: center;
+    font-size: 23px;
+    align-self: center;
+    margin-left: 40px;
+}
