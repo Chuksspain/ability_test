@@ -117,6 +117,7 @@ h3 {
     height: 900px;
     background-color: rgb(248, 243, 249);
     display: block;
+
 }
 
 #h3a {
@@ -147,6 +148,8 @@ h3 {
     border-radius: 15px;
     margin-left: 250px;
     padding-bottom: 10px;
+    display: inline;
+    position: absolute;
 }
 
 #div6 {
@@ -284,4 +287,148 @@ h3 {
     font-size: 23px;
     align-self: center;
     margin-left: 40px;
+}
+
+#div8 {
+    width: 287px;
+    height: 600px;
+    background-color: rgb(215, 211, 220);
+    border-radius: 15px;
+    margin-left: 550px;
+    padding-bottom: 10px;
+    margin-bottom: 400px;
+    display: inline;
+    position: absolute;
+}
+
+
+#div10 {
+    width: 287px;
+    height: 600px;
+    background-color: rgb(215, 211, 220);
+    border-radius: 15px;
+    margin-left: 850px;
+    padding-bottom: 10px;
+    margin-bottom: 400px;
+    display: inline-block;
+}
+
+#h4a {
+    color: black;
+    font-size: 38px;
+    padding-top: 9px;
+    margin-left: 30px;
+    display: inline;
+    margin-top: 63px;
+    position: absolute;
+}
+
+#h4b {
+    color: black;
+    font-size: 19px;
+    padding-top: 9px;
+    margin-left: 131px;
+    display: inline;
+    margin-top: 77px;
+    position: absolute;
+}
+
+#h4c {
+    color: black;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 155px;
+    margin-left: 30px;
+    padding-bottom: none;
+}
+
+#p12 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 1px;
+    margin-left: 30px;
+}
+
+#p14 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p15 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p16 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p17 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p18 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p19 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p20 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#p21 {
+    color: black;
+    font-size: 16px;
+    display: block;
+    margin-top: 17px;
+    margin-left: 75px;
+}
+
+#div11 {
+    width: 190px;
+    height: 40px;
+    background-color: rgb(8, 169, 75);
+    border-radius: 20px;
+    margin-top: none;
+    position: absolute;
+    margin-left: 10px;
+    display: flex;
+}
+
+#p22 {
+    text-align: center;
+    font-size: 19px;
+    align-self: center;
+    margin-left: 40px;
+    color: white;
 }
